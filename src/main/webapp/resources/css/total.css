@@ -1,0 +1,32 @@
+a {
+    text-decoration: none
+}
+
+
+.marginB-10 {
+    margin-bottom: 10px;
+}
+.marginB-20 {
+    margin-bottom: 20px;
+}
+
+
+#listTable {
+    width: 100%
+}
+#listTable, #listTable td {
+    border: 1px solid lightgrey;
+    border-spacing: 0px;
+}
+#listTable thead {
+    background: mediumseagreen;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+#listTable td {
+    padding: 10px;
+}
+.listTable-tr-gray {
+    background: #E5E5E5;
+}
