@@ -16,5 +16,6 @@ public class TotalCnt {
             num++;
         }
         return num;
+
     }
 }
